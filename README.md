@@ -4,6 +4,7 @@ Link: https://www.kaggle.com/c/outbrain-click-prediction
 
 Score : 0.59719  
 Position: 811  
+Top Score on Leaderboard: 0.70144  
 
 ## Problem Description And Overview Of Approach
 In this challenge, we are predicting which pieces of content users are likely to click on to satisfy more users’ individual tastes. Each display id is assigned with several ad id while users get access to the display id using different platforms from all around the world and they would decide whether clicking the ad or not. Our goal is to display the ad in the descending order of their likelihood to be clicked.
