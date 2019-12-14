@@ -32,8 +32,3 @@ Submissions are evaluated according to the Mean Average Precision @12  (MAP@12):
  MAP@12 = \frac{1}{|U|} \sum_{u=1}^{|U|} \sum_{k=1}^{min(12, n)} P(k)
  
 where |U| is the number of display_ids, P(k) is the precision at cutoff k, n is the number of predicted ad_ids.
-
-
-@equation(id)
-x = \sum_{i=1}{N} i
-@/
